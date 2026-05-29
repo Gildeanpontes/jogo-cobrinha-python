@@ -1,4 +1,4 @@
-readme_content = """# Jogo da Cobrinha (Snake Game)
+# Jogo da Cobrinha (Snake Game)
 
 Uma implementação clássica do famoso jogo da cobrinha desenvolvida em Python utilizando a biblioteca **Pygame**. O objetivo é comer a comida vermelha para crescer e acumular pontos, evitando colidir com as bordas da tela ou com o próprio corpo.
 
